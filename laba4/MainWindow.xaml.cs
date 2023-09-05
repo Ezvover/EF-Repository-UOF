@@ -24,7 +24,7 @@ namespace laba4
 
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); // инит
             ToGrid();
           
             MainGrid.SelectedIndex = 0; // Устанавливаем первый элемент как выбранный
